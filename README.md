@@ -1,6 +1,6 @@
 ## Hi there 👋
-🔭 I’m currently working on building Ravvio, AI dashboard to improve call center efficiency \n
-📫 How to reach me: Linkedin: linkedin.com/in/sujaysriv \n
+🔭 I’m currently working on building Ravvio, AI dashboard to improve call center efficiency <br>
+📫 How to reach me: Linkedin: linkedin.com/in/sujaysriv <br>
                     email id: sujay@ravvio.in
 
 <!--
