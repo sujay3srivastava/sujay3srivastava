@@ -1,5 +1,5 @@
 ## Hi there 👋
-🔭 I’m currently working on building Ravvio, AI dashboard to improve call center efficiency <br>
+🔭 I’m Sujay Srivastava, currently building Ravvio, AI dashboard to improve call center efficiency <br>
 📫 How to reach me: Linkedin: linkedin.com/in/sujaysriv <br>
                     email id: sujay@ravvio.in
 
